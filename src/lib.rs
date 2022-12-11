@@ -699,6 +699,7 @@ pub mod serial;
 pub mod spi;
 pub mod timer;
 pub mod watchdog;
+pub mod onewire;
 
 /// Input capture
 ///
