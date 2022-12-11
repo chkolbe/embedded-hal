@@ -82,6 +82,7 @@ pub mod digital;
 pub mod i2c;
 pub mod serial;
 pub mod spi;
+pub mod onewire;
 
 mod private {
     use crate::i2c::{SevenBitAddress, TenBitAddress};
