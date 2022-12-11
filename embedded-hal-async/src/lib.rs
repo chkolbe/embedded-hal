@@ -16,3 +16,4 @@ pub mod delay;
 pub mod digital;
 pub mod i2c;
 pub mod spi;
+pub mod onewire;
