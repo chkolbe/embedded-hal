@@ -289,3 +289,4 @@ pub use nb;
 
 pub mod serial;
 pub mod spi;
+pub mod onewire;
